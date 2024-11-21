@@ -6,13 +6,17 @@ EdgeDeviceLLMCompetition track 2 final submission
 
 ### The configuration and checkpoints of the original HuggingFace model 
 
-Model: [p2o6e100/nGPT_800m · Hugging Face] https://huggingface.co/p2o6e100/nGPT_800m/tree/main
+Model: [p2o6e100/nGPT_800m · Hugging Face] https://huggingface.co/p2o6e100/nGPT_800m
 
 ### Code for converting the model to MLC
 
-google drive link
+[google drive link](https://drive.google.com/drive/folders/18HlmbWG54nyZg42l19ITqQDU3HkunP01?usp=sharing)
 
 ### Converted MLC model files
+
+Model: [p2o6e100/nGPT_800m_MLC · Hugging Face] https://huggingface.co/p2o6e100/nGPT_800m_MLC
+
+### APK file
 
 [google drive link](https://drive.google.com/drive/folders/1RIcObuvfWFdLEhL1pTOLVfVCGZjkw5sM?usp=sharing)
 
