@@ -14,7 +14,7 @@ google drive link
 
 ### Converted MLC model files
 
-google drive link
+[google drive link](https://drive.google.com/drive/folders/1RIcObuvfWFdLEhL1pTOLVfVCGZjkw5sM?usp=sharing)
 
 ### CSV file
 
@@ -57,6 +57,6 @@ Use android studio Build/Generation Signed App Bundle/APK to generate apk
 
 ### Bundle Weight
 
-use python bundle_weight.py --apk-path app/release/app-release.apk to transfer weight from computer to mobile phone
+use python bundle_weight.py --apk-path app/release/app-release-signed.apk to transfer weight from computer to mobile phone
 
 Our `bundle_weight.py` is the same as the original one so either script works. Our `bundle_weight.py` can be found in `assets` folder
